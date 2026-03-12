@@ -2,37 +2,37 @@
 "name":"Wayne Gretzky",
 "team":"Canadian",
 "yearOfBirth":"1961",
-"photo":"gretzky"
+"photo":"gretzky.PNG"
 },
 {
 "name":"Mario Lemieux",
 "team":"Pittsburgh",
 "yearOfBirth":"1965",
-"photo":"lemieux"
+"photo":"lemieux.PNG"
 },
 {
 "name":"Bobby Orr",
 "team":"Boston",
 "yearOfBirth":"1948",
-"photo":"orr"
+"photo":"orr.PNG"
 },
 {
 "name":"Maurice Richard",
 "team":"Montreal",
 "yearOfBirth":"1921",
-"photo":"richard"
+"photo":"richard.PNG"
 },
 {
 "name":"Mark Messier",
 "team":"Edmonton",
 "yearOfBirth":"1961",
-"photo":"messier"
+"photo":"messier.PNG"
 },
 {
 "name":"Richard Dan",
 "team":"Toronto",
 "yearOfBirth":"#1948A",
-"photo":"ff"
+"photo":"ff.PNG"
 }
 ]
 
